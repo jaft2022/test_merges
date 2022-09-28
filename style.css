@@ -8,3 +8,9 @@ p{
     width: 10px;
     word-break: break-all;
 }
+h2{
+    color: green;
+}
+h1{
+    color:blue;
+}
